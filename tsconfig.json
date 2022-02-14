@@ -1,0 +1,19 @@
+
+  {
+    "compilerOptions": {
+        "outDir": "lib",
+        "module": "esnext",
+        "target": "es5",
+        "declaration": true,
+        "jsx": "react-jsx",
+        "moduleResolution": "Node",
+        "allowSyntheticDefaultImports": true,
+        "skipLibCheck": true,
+        "paths": {
+            "rc-radial-menu": ["src/index.tsx"]
+        },
+        "baseUrl": "."
+    },
+    "include": ["./src"],
+    "exclude": ["src/**/*.test.tsx", "src/**/*.md", "src/**/doc", "src/**/demo"]
+}
