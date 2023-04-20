@@ -22,6 +22,7 @@ export interface RadialMenuItemProps {
     radius?: number;
     /** 起始偏移量 */
     offset?: number;
+    children?: React.ReactNode;
 }
 
 // 关闭时的style
