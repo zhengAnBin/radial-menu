@@ -2,15 +2,15 @@
 
 ### 基础用法
 
-<code src="../src/demo/basic.tsx"/>
+<code src="../src/demo/basic.tsx"></code>
 
 ### 多级嵌套
 
-<code src="../src/demo/nesting.tsx"/>
+<code src="../src/demo/nesting.tsx"></code>
 
 ### 构造 RadialMenuItem
 
-<code src="../src/demo/build.tsx"/>
+<code src="../src/demo/build.tsx"></code>
 
 ### 核心函数
 
@@ -18,7 +18,7 @@
 
 其他细节请查看 item.tsx 文件
 
-<code src="../src/demo/compute.tsx"/>
+<code src="../src/demo/compute.tsx"></code>
 
 ### API
 

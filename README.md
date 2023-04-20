@@ -4,6 +4,12 @@
 
 ![image](src/assets/home.png)
 
+## Install
+
+```bash
+npm i rc-radial-menu
+```
+
 ## License
 
 Apache License 2.0

@@ -1,4 +1,4 @@
-import { computePosition } from "rc-radial-menu/lib/utils";
+import { computePosition } from "rc-radial-menu/utils";
 import React from "react";
 
 let angleExtent = 210;

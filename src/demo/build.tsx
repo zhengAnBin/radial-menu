@@ -1,6 +1,6 @@
 import React from "react";
 import RadialMenu from "rc-radial-menu";
-import { Button } from "antd";
+
 import "./style.css";
 
 export default function () {
@@ -14,23 +14,23 @@ export default function () {
                 classNames="my-radial-menu-root"
                 isRoot
                 content={
-                    <Button shape="circle" type="primary">
+                    <button>
                         A
-                    </Button>
+                    </button>
                 }
                 onClick={onClick}
             >
                 <RadialMenu.Item
                     classNames="my-radial-menu-item"
-                    content={<Button shape="circle">A</Button>}
+                    content={<button>A</button>}
                 ></RadialMenu.Item>
                 <RadialMenu.Item
                     classNames="my-radial-menu-item"
-                    content={<Button shape="circle">B</Button>}
+                    content={<button>B</button>}
                 ></RadialMenu.Item>
                 <RadialMenu.Item
                     classNames="my-radial-menu-item"
-                    content={<Button shape="circle">C</Button>}
+                    content={<button>C</button>}
                 ></RadialMenu.Item>
             </RadialMenu.Item>
         </div>
