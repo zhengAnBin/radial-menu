@@ -2,7 +2,7 @@
   <h1>React RadialMenu 径向菜单</h1>
 </p>
 
-![Image text](https://github.com/zhengAnBin/radial-menu/tree/main/src/assets/home.png)
+![image](src/assets/home.png)
 
 ## License
 
